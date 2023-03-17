@@ -26,6 +26,7 @@ Road to the dream
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="20" height="20" alt="Git" /></a>
 </p>
 
-### Socials
+___For all questions___
 
-<p align="left"> <a href="https://www.github.com/https://github.com/Yariz-IT" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+img src="https://img.shields.io/badge/Mail.Ru-yellow?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
+
