@@ -29,6 +29,5 @@ Road to the dream
 ___For all questions___
 
 ![Flutter](https://img.shields.io/badge/-Mail.Ru-092540?style=for-the-badge&logo=Mail.Ru&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-telegram-063a6b?style=for-the-badge&logo=telegram&logoColor=fff)
-
+[![Telegram](https://img.shields.io/badge/-Telegram-063a6b?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/the_cybermania)
 
