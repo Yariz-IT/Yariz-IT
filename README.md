@@ -28,5 +28,7 @@ Road to the dream
 
 ___For all questions___
 
-img src="https://img.shields.io/badge/Mail.Ru-yellow?style=for-the-badge&logo=НАЗВАНИЕ ЛОГОТИПА&logoColor=ЦВЕТ ЛОГОТИПА"/
+![Flutter](https://img.shields.io/badge/-Mail.Ru-092540?style=for-the-badge&logo=Mail.Ru&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-telegram-092540?style=for-the-badge&logo=telegram&logoColor=fff)
+
 
