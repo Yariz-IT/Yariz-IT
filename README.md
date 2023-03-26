@@ -24,7 +24,10 @@ Road to the dream
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="20" height="20" alt="NestJS" /></a>
 <img src="https://media.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" height=25 width=25/>
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height=20 width=20/>
+  <img src="https://media.giphy.com/media/2vnId4IaAjIGZd2EWC/giphy.gif" height=23 width=23/><a href="https://www.djangoproject.com/" target="_blank"  <img src="https://cdn.worldvectorlogo.com/logos/django.svg"  width="40" height="40"/>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="20" height="20"/> </a>
 
+  
 
 ___For all questions___
 
