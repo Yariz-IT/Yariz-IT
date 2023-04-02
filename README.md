@@ -22,7 +22,6 @@ Road to the dream
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="20" height="20" alt="NextJs" /></a>
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="20" height="20" alt="Nuxtjs" /></a>
 <img src="https://media.giphy.com/media/C8Tij3iox3coBSqVWE/giphy.gif" height=25 width=25/>
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" height=20 width=20/>
 
 
 
